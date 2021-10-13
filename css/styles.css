@@ -1,7 +1,11 @@
 .test {
-  font-style: bold
+  font-style: bold;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .test2 {
-  font-style: italic
+  font-style: italic;
+  margin-top:25px;
+  margin-bottom:25px;
 }
